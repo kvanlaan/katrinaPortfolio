@@ -1,0 +1,110 @@
+<div class="work-grids-area hover-one no-gutter" id="atom-works-grid">
+                <div class="col-sm-4 col-xs-12 atom-work-item creative corporate video">
+                   <a href="todoslider-portfolio.html">
+                       <img src="todocover.png" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>To-Do List</h5>
+                           <p>Backbone, React, Firebase</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item corporate video design">
+                   <a href="weatherslider-portfolio.html">
+                       <img src="weathercover.png" height="1598" width="2860" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>Weather App</h5>
+                           <p>Backbone</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item creative design">
+                   <a href="cohortslider-portfolio.html">
+                       <img src="cohort1.png" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>Cohort Invaders</h5>
+                           <p>Javascript</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item corporate video">
+                   <a href="tshirtslider-portfolio.html">
+                       <img src="tshirtcover.png" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>T-Shirts</h5>
+                           <p>HTML,CSS</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item creative design">
+                   <a href="responsiveslider-portfolio.html">
+                       <img src="responsivecover.png" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>Responsive Forms</h5>
+                           <p>HTML,CSS</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item corporate video">
+                   <a href="etsyslider-portfolio.html">
+                       <img src="etsycover.png" height="1528" width="2662" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>Etsy</h5>
+                           <p>React, Backbone</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item design">
+                   <a href="slider-portfolio.html">
+                       <img src="colorcover.png" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>Color Clock</h5>
+                           <p>Javascript, HTML, CSS</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item corporate video">
+                   <a href="parallax-portfolio.html">
+                       <img src="images/portfolio/grid/8.jpg" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>project title</h5>
+                           <p>art work</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item creative design">
+                   <a href="single-portfolio.html">
+                       <img src="images/portfolio/grid/9.jpg" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>project title</h5>
+                           <p>art work</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item video">
+                   <a href="slider-portfolio.html">
+                       <img src="images/portfolio/grid/10.jpg" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>project title</h5>
+                           <p>art work</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item corporate design">
+                   <a href="single-portfolio.html">
+                       <img src="images/portfolio/grid/11.jpg" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>project title</h5>
+                           <p>art work</p>
+                       </div>
+                   </a>
+                </div>
+                <div class="col-sm-4 col-xs-12 atom-work-item creative corporate video design">
+                   <a href="parallax-portfolio.html">
+                       <img src="images/portfolio/grid/12.jpg" alt="" class="img-responsive">
+                       <div class="desc text-center">
+                           <h5>project title</h5>
+                           <p>art work</p>
+                       </div>
+                   </a>
+                </div>
+            </div>
